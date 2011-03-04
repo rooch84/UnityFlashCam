@@ -14,3 +14,7 @@ applications will run on MacOS or Linux. As a matter of fact, I'm not 100% sure 
 
 Feedback welcomed at chris@rooch.net
 
+v0.2
+
+You can new set the size and aspect ratio of the image you want to send to Unity.  
+

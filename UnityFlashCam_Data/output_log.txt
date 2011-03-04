@@ -1,0 +1,41 @@
+Mono path[0] = 'C:/Users/Chris/Documents/Unity Projects/UnityFlashCam/UnityFlashCam_Data/Managed'
+Mono path[1] = 'C:/Users/Chris/Documents/Unity Projects/UnityFlashCam/UnityFlashCam_Data/Mono'
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.11.9494]
+    Renderer: NVIDIA GeForce 8600M GT 
+    Vendor:   NVIDIA
+    VRAM:     512 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02138C30 (this message is harmless)
+Non platform assembly: data-0219B310 (this message is harmless)
+Non platform assembly: data-0219F188 (this message is harmless)
+Non platform assembly: data-021A2400 (this message is harmless)
+Platform assembly: C:\Users\Chris\Documents\Unity Projects\UnityFlashCam\UnityFlashCam_Data\Managed\System.dll (this message is harmless)
+The local End point is: 127.0.0.1:801
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Waiting for a connection.....
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Connection accepted from 127.0.0.1:51556
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Recieved...
+Image width: 320
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Image height: 240
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Ready to receive webcam stream
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
